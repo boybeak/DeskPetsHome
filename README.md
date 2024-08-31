@@ -1,9 +1,9 @@
 # DeskPetsHome
 
-<img src="./art/Donald%20Trump.gif" width="100px">
+<img src="./thumbnails/Donald%20Trump.gif" width="100px">
 
-**[Donald Trump](./pack/Donald%20Trump.zip)**
+**[Donald Trump](https://github.com/boybeak/DeskPetsHome/raw/main/stickers/Donald%20Trump.zip)**
 
-<img src="./art/Joe Biden.gif" width="100px">
+<img src="./thumbnails/Joe Biden.gif" width="100px">
 
-**[Joe Biden](./pack/Joe%20Biden.zip)**
+**[Joe Biden](https://github.com/boybeak/DeskPetsHome/raw/main/stickers/Joe%20Biden.zip)**

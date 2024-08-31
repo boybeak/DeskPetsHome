@@ -7,6 +7,14 @@
             "thumb": "Donald Trump.gif",
             "file": "Donald Trump.zip",
             "type": "sticker"
+        },
+        {
+            "id": "joe-biden-sticker",
+            "title": "Joe Biden",
+            "description": "Joe Biden stickers",
+            "thumb": "Joe Biden.gif",
+            "file": "Joe Biden.zip",
+            "type": "sticker"
         }
     ],
     "pets": []
