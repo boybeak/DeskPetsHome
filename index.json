@@ -41,5 +41,14 @@
             "type": "sticker"
         }
     ],
-    "pets": []
+    "pets": [
+        {
+            "id": "klee-pet",
+            "title": "Klee",
+            "description": "Klee from Genshin",
+            "thumb": "klee.png",
+            "file": "klee.zip",
+            "type": "pet"
+        }
+    ]
 }
