@@ -15,6 +15,22 @@
             "thumb": "Joe Biden.gif",
             "file": "Joe Biden.zip",
             "type": "sticker"
+        },
+        {
+            "id": "duckyo-sticker",
+            "title": "Duckyo",
+            "description": "Cute Dockyo say hi to you!",
+            "thumb": "Duckyo.gif",
+            "file": "Duckyo.zip",
+            "type": "sticker"
+        },
+        {
+            "id": "genshin-sticker",
+            "title": "genshin",
+            "description": "Genshin stickers!",
+            "thumb": "genshin.gif",
+            "file": "genshin.zip",
+            "type": "sticker"
         }
     ],
     "pets": []
