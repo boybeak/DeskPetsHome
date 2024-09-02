@@ -45,9 +45,17 @@
         {
             "id": "klee-pet",
             "title": "Klee",
-            "description": "Klee from Genshin",
+            "description": "Klee from Genshin Impact.\nThe daughter of the intrepid and often quite destructive adventurer Alice, Klee takes after her mother in many ways, much to the dismay of the Knights of Favonius whom she has been entrusted to.",
             "thumb": "klee.png",
             "file": "klee.zip",
+            "type": "pet"
+        },
+        {
+            "id": "keqing-pet",
+            "title": "Keqing",
+            "description": "Keqing from Genshin Impact.\nAs the Yuheng of the Liyue Qixing, she is someone who seeks her own answers instead of idly letting chaos run amok in Liyue. She chooses her own path with her own power and ability, instead of letting the gods determine her fate.",
+            "thumb": "keqing.png",
+            "file": "keqing.zip",
             "type": "pet"
         }
     ]
