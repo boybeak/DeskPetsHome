@@ -65,6 +65,14 @@
             "thumb": "raiden.png",
             "file": "raiden.zip",
             "type": "pet"
+        },
+        {
+            "id": "mona-pet",
+            "title": "Github Mona",
+            "description": "Mona is Github's loading image.",
+            "thumb": "mona.png",
+            "file": "mona.zip",
+            "type": "pet"
         }
     ]
 }
