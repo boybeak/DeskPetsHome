@@ -57,6 +57,14 @@
             "thumb": "keqing.png",
             "file": "keqing.zip",
             "type": "pet"
+        },
+        {
+            "id": "raiden-pet",
+            "title": "Raiden",
+            "description": "The Raiden Shogun (Japanese: 雷らい電でん将しょう軍ぐん Raiden Shougun) is a playable Electro character in Genshin Impact.",
+            "thumb": "raiden.png",
+            "file": "raiden.zip",
+            "type": "pet"
         }
     ]
 }
