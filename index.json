@@ -73,6 +73,14 @@
             "thumb": "mona.png",
             "file": "mona.zip",
             "type": "pet"
+        },
+        {
+            "id": "panda-pet",
+            "title": "Panda",
+            "description": "A cute panda.",
+            "thumb": "panda.png",
+            "file": "panda.zip",
+            "type": "pet"
         }
     ]
 }
