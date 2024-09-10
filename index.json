@@ -69,8 +69,8 @@
         {
             "id": "mona-pet",
             "version": {
-                "versionInt": 2,
-                "versionName": "0.0.2"
+                "versionInt": 3,
+                "versionName": "0.0.3"
             },
             "title": "Github Mona",
             "description": "Mona is Github's loading image.",
